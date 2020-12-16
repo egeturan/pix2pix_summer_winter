@@ -1,1 +1,0 @@
-# pix2pix_summer_winter
